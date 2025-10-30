@@ -34,7 +34,7 @@
 - **Seeding:** Laravel Seeders
 
 ### Frontend - React (Existing)
-- **Framework:** React 18
+- **Framework:** React 18, Tailwind, Typescript
 - **State Management:** Context API
 - **HTTP Client:** Axios
 - **WebSocket:** Laravel Echo (JavaScript)
