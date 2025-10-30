@@ -9,7 +9,7 @@
 **Migration Type:** Complete Backend Rewrite
 **Stack:**
 - **From:** FastAPI (Python) + MongoDB + React
-- **To:** Laravel 11 (PHP) + MySQL + React
+- **To:** Laravel 11 (PHP) + MySQL + React,Tailwind,Typescript
 
 ---
 
